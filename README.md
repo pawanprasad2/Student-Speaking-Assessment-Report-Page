@@ -32,14 +32,15 @@ The frontend fetches this data from the backend API and renders it on the report
 
 The descriptive feedback is generated dynamically based on the overall speaking score using simple conditional logic.
 The logic works as follows:
+
 If the overall score is 8 or above
-→ “Excellent performance with strong control over speaking skills.”
+→ “Excellent performance with strong control.”
 
 If the overall score is between 6 and 7
 → “Good performance with minor inaccuracies.”
 
 If the overall score is below 6
-→ “Needs improvement. Focus on basic speaking skills.”
+→ “Needs improvement.”
 
 This ensures that:
 Feedback updates automatically when score values change
