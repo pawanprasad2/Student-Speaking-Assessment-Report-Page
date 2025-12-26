@@ -124,31 +124,6 @@ Follow these steps to get the project up and running on your local machine.
 
     Visit `http://localhost:[detected frontend port]` to access the application.
 
-## 📁 Project Structure
-
-student-assessment-report/
-│
-├── backend/
-│   ├── data/
-│   │   └── reportData.js
-│   ├── routes/
-│   │   └── report.route.js
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── ScoreCard.jsx
-│   │   │   ├── ScoreChart.jsx
-│   │   │   └── Feedback.jsx
-│   │   ├── pages/
-│   │   │   └── ReportPage.jsx
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
-│
-├── README.md
 
 
 
