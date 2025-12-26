@@ -139,6 +139,3 @@ Follow these steps to get the project up and running on your local machine.
 ## 🙏 Acknowledgments
 
 -   **pawanprasad2**: For initiating and developing this project.
--   <!-- TODO: List major dependencies or inspiration sources if mentioned in code -->
-
-
